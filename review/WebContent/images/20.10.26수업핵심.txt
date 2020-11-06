@@ -1,0 +1,14 @@
+-자바에서 중요한 부분!
+인터페이스(interface)
+콜렉션(collection)
+랩퍼클래스(wrapper class)
+
+-AJAX
+=>비동기(콜백함수)
+=>자바스크립트 오브젝트 사용
+=>XML, JSOM사용
+
+*자바스크립트(278p -> 그룹이벤트)
+-캡쳐링
+-버블링(전파) = propagation
+
